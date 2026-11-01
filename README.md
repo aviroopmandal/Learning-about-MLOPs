@@ -1,20 +1,21 @@
 # Learning-about-MLOPs
+
 My journey into Machine Learning Operations.
 
 Learning Objectives
 
-Git and GitHub
+- Git and GitHub
 
-Linux and command-line fundamentals
+- Linux and command-line fundamentals
 
-Docker and containerisation
+- Docker and containerisation
 
-MLflow and experiment tracking
+- MLflow and experiment tracking
 
-Machine learning model deployment
+- Machine learning model deployment
 
-CI/CD automation
+- CI/CD automation
 
-Model monitoring
+- Model monitoring
 
-Kubernetes and cloud infrastructure
+- Kubernetes and cloud infrastructure
