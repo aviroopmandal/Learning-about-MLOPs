@@ -1,6 +1,6 @@
 
 def predict(value):
-    prediction = value * 2
+    prediction = value * 3
     return prediction
 
 result = predict(10)
